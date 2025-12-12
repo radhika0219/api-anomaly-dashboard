@@ -68,7 +68,7 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-st.markdown('<div class="title">API Abuse - AI Cyber Resilience Dashboard</div>', unsafe_allow_html=True)
+st.markdown('<div class="title">API Anomaly - AI Cyber Resilience Dashboard</div>', unsafe_allow_html=True)
 st.markdown(
     '<p class="subtitle">Behaviour metrics and call-graph intelligence with Isolation Forest risk scoring</p>',
     unsafe_allow_html=True,
