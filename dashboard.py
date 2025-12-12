@@ -9,7 +9,7 @@ import plotly.colors as pc
 px.defaults.template = "plotly_dark"
 
 st.set_page_config(
-    page_title="API Abuse - AI Cyber Resilience Dashboard",
+    page_title="API Anomaly - AI Cyber Resilience Dashboard",
     page_icon="",
     layout="wide",
 )
