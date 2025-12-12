@@ -30,7 +30,7 @@ st.markdown(
     f"""
     <style>
       body {{ background-color: {BG}; }}
-      .block-container {{ padding-top: 1.35rem; padding-bottom: 2.5rem; }}
+      .block-container {{ padding-top: 3.2rem; padding-bottom: 2.5rem; }}
       div[data-testid="stMetric"] {{
         background: {CARD};
         border: 1px solid {BORDER};
