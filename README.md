@@ -1,4 +1,4 @@
-# API Abuse – AI Cyber Resilience Dashboard
+# API Anomaly – AI Cyber Resilience Dashboard
 
 This project detects suspicious API usage sessions using **behaviour metrics + API call-graph features** and visualizes the results in a **dark (black + purple/blue) Streamlit dashboard**.
 
