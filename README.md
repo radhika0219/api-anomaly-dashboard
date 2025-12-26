@@ -9,7 +9,7 @@ This project detects suspicious API usage sessions using **behaviour metrics + A
 
 - `dashboard.py`  
   A Streamlit dashboard that reads the CSV outputs and provides SOC-style views: posture, risk tiers, driver analysis, investigation workbench, and supervised validation.
-
+  Link to dashboard: https://api-anomaly-dashboard-ggivuhazreamaeiur774nk.streamlit.app
 ---
 
 ## Folder structure
